@@ -4,5 +4,3 @@
 🎓 Computer Science at UNISUL (2019-2024)<br/>
 📫 How to reach me: You can find me in <a href="https://www.instagram.com/geovane.gallotti/">Instagram</a> and <a href="https://www.linkedin.com/in/geovane-gallotti-cazal-5b78b91a1/">LinkedIn<a/> <br/>
 🌱 I’m currently learning React and React Native
-
-.. image:: https://img.shields.io/github/followers/geovane-gc?label=Follow%20me&style=social   :alt: GitHub followers
